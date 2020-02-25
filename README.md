@@ -3,7 +3,7 @@ This repository performs sentiment analysis in amazon review using deep learning
 # Data
 https://www.kaggle.com/datafiniti/consumer-reviews-of-amazon-products
 # How to use
-"""
+'''
 python3 preprocess.py
 python main.py
-"""
+'''
