@@ -3,8 +3,8 @@ This repository performs sentiment analysis in amazon review using deep learning
 # Data
 https://www.kaggle.com/datafiniti/consumer-reviews-of-amazon-products
 # How to use
-commands: 
-''' 
-python3 preprocess.py 
-python3 main.py 
-''' 
+commands:  
+'''  
+python3 preprocess.py  
+python3 main.py  
+'''  
